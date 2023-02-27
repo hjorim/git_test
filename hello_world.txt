@@ -1,0 +1,10 @@
+Hello World
+This is the text file
+#Check status of files (staged/committed)
+git status
+#Add a file to the staging area
+git add filename.fileextension
+#Add all files of the current directory to the staging area
+git add .
+#Commit files
+git commit -m "Insert the comments for the submission here"
