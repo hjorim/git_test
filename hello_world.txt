@@ -8,6 +8,7 @@ git add filename.fileextension
 git add .
 #Commit files
 git commit -m "Insert the comments for the submission here"
+#where -m is the message flag
 #Push to GitHub
 git push origin main
 # Where origin is the name of the remote server
